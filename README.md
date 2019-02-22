@@ -8,5 +8,7 @@ prova
 |---|---|
 |A|B|
 
+### Authors
+
 * [google](google.com)
-* [bla bla ](https://github.com)
+* [Edu Miralles](https://github.com/popedu)
