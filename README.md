@@ -5,3 +5,5 @@ prova
 ### hola
 
 |col1|col2|
+|---|---|
+|A|B|
