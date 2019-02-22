@@ -8,5 +8,5 @@ prova
 |---|---|
 |A|B|
 
-*[google](google.com)
-*[bla bla ](https://github.com)
+* [google](google.com)
+* [bla bla ](https://github.com)
