@@ -1,5 +1,0 @@
-ei
-<<<<<<< HEAD
-que
-roger
->>>>>>> 88e08cd05c4a0fe5e985eacca51781f899fa27b0
